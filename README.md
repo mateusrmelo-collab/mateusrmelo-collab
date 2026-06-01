@@ -1,26 +1,39 @@
-## 👋 Olá, meu nome é Mateus Rodrigues
+# Olá, eu sou Mateus Rodrigues
 
-💻 Desenvolvedor Full Stack em formação 
-🚀 Focado em desenvolvimento web com PHP e JavaScript   
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D8FF&center=false&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Criando+projetos+e+aprendendo+todos+os+dias" />
 
----
+## 🚀 Sobre mim
 
-## 🧠 Tech Stack
+💻 Desenvolvedor Full Stack em formação
 
-### ✔️ Conhecimento atual
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🌐 Focado em desenvolvimento web com PHP, JavaScript, HTML e CSS
 
-### 📚 Em aprendizado
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+📚 Atualmente estudando C++ e boas práticas de programação
+
+🎯 Buscando evoluir constantemente através de projetos reais
+
+⚡ Transformando ideias em código e código em soluções
 
 ---
 
-## 🎯 Objetivo
+## 🛠️ Tecnologias
 
-Evoluir como desenvolvedor full stack.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp," />
+</p>
+
+---
+
+## 🎯 Atualmente
+
+🔹 Desenvolvendo projetos em PHP
+
+🔹 Aprendendo C++
+
+🔹 Melhorando habilidades em Banco de Dados
+
+---
+
+⭐ Sempre aprendendo, criando e compartilhando conhecimento.
 
 
