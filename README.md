@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp,arduino" />
 </p>
 
 ---
