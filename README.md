@@ -1,22 +1,22 @@
-# Olá, eu sou Mateus Rodrigues
+# Hello, I'm Mateus Rodrigues 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D8FF&center=false&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Criando+projetos+e+aprendendo+todos+os+dias" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D8FF&center=false&vCenter=true&width=500&lines=Full+Stack+Developer+in+Training;Building+Projects+and+Learning+Every+Day" />
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-💻 Desenvolvedor Full Stack em formação
+💻 Full Stack Developer in training
 
-🌐 Focado em desenvolvimento web com PHP, JavaScript, HTML e CSS
+🌐 Focused on web development using PHP, JavaScript, HTML, and CSS
 
-📚 Atualmente estudando C++ e boas práticas de programação
+📚 Currently studying C++ and software development best practices
 
-🎯 Buscando evoluir constantemente através de projetos reais
+🎯 Constantly improving through real-world projects
 
-⚡ Transformando ideias em código e código em soluções
+⚡ Turning ideas into code and code into solutions
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 💻 IDEs e Ferramentas
+## 💻 IDEs & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,arduino" />
@@ -32,7 +32,7 @@
 
 ---
 
-## Creative tools and design
+## 🎨 Creative Tools & Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=blender" />
@@ -40,16 +40,25 @@
 
 ---
 
-## 🎯 Atualmente
+## 🎯 Currently
 
-🔹 Desenvolvendo projetos em PHP
+🔹 Building PHP projects
 
-🔹 Aprendendo C++
+🔹 Learning C++
 
-🔹 Melhorando habilidades em Banco de Dados
+🔹 Exploring new technologies and development practices
 
 ---
 
-⭐ Sempre aprendendo, criando e compartilhando conhecimento.
+## 📈 Goals
 
+🚀 Become a skilled Full Stack Developer
+
+💡 Build useful and impactful projects
+
+📚 Keep learning and growing every day
+
+---
+
+⭐ Always learning, building, and sharing knowledge.
 
