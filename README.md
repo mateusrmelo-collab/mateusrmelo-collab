@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp" />
 </p>
 
 ---
@@ -28,6 +28,14 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,arduino" />
+</p>
+
+---
+
+## Creative tools and design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=blender" />
 </p>
 
 ---
