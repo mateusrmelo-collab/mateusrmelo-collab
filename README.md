@@ -24,6 +24,14 @@
 
 ---
 
+## 💻 IDEs e Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,arduino" />
+</p>
+
+---
+
 ## 🎯 Atualmente
 
 🔹 Desenvolvendo projetos em PHP
