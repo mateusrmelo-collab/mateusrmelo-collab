@@ -19,6 +19,8 @@
 <p>
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusrmelo-collab&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+<p><img height="170" src="https://github-readme-stats-liart-ten-75.vercel.app//api?username=mateusrmelo-collab&show_icons=true&theme=prussian"/>
+</p>
 
 ---
 
