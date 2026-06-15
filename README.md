@@ -39,6 +39,13 @@
 </p>
 
 ---
+## Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+</p>
+
+---
 
 ## 🎨 Creative Tools & Design
 
