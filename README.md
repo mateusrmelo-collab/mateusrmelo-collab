@@ -42,7 +42,7 @@
 ## Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python" />
 </p>
 
 ---
