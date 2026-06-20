@@ -8,7 +8,7 @@
 
 🌐 Focused on web development with PHP, JavaScript, HTML, and CSS
 
-📚 Currently studying C++ and software development best practices
+📚 Currently studying software development best practices
 
 ⚡ Turning ideas into code and code into solutions
 
