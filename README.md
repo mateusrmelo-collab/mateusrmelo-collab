@@ -59,8 +59,6 @@
 
 🔹 Building PHP projects
 
-🔹 Learning C++
-
 🔹 Exploring new technologies and development practices
 
 ---
