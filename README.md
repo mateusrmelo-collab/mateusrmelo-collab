@@ -42,14 +42,8 @@
 ## 💻 IDEs & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,arduino" />
-</p>
-
----
-## Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,arduino," />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
 </p>
 
 ---
@@ -58,6 +52,14 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="48" height="48" alt="Inkscape" />
+</p>
+
+---
+## Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python," />
 </p>
 
 ---
