@@ -42,7 +42,7 @@
 ## 💻 IDEs & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,arduino," />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
 </p>
 
