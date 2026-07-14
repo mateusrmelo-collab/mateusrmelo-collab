@@ -102,6 +102,12 @@ My current work is centered around **PHP, JavaScript, HTML, CSS, and MySQL**, wh
 
 ---
 
+## My mind
+
+"If life gives you lemons, don't waste time complaining. Use each one as fuel to build something so great that, one day, people see only what you created not the difficulties you faced to get there."
+
+---
+
 ## 🌐 Portfolio
 
 Explore my projects, skills, and development journey:
