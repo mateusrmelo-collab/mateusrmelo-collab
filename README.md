@@ -37,13 +37,13 @@ My current work is centered around **PHP, JavaScript, HTML, CSS, and MySQL**, wh
 ### Core Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp&theme=dark" alt="HTML, CSS, JavaScript, PHP, MySQL, and C++" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp,python&theme=dark" alt="HTML, CSS, JavaScript, PHP, MySQL, and C++" />
 </p>
 
 ### Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python&theme=dark" alt="React, Node.js, MongoDB, and Python" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" alt="React, Node.js, MongoDB" />
 </p>
 
 ### Development Tools
